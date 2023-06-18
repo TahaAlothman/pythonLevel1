@@ -112,6 +112,6 @@ if 4 and 6 in List:
 if 3 or 6 in List:
     print('3 or 6 in the List')
 if 2 and 4 and 5 in List:
-    print('2 and 4 and 6 in the List')
+    print('2 and 4 and 5 in the List')
 
 
