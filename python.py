@@ -116,7 +116,7 @@ print ('_____________________________________')
 #12.Python is interpreted or compiled ?
 
 print("Python is interpreted or compiled?")
-print("python is both,interpreted and compiled")
+print("python is interpreted ")
 
 print ('_____________________________________')
 
